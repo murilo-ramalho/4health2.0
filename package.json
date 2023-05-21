@@ -1,0 +1,17 @@
+{
+  "name": "4health2.0",
+  "version": "1.0.0",
+  "description": "refazendo com uma arquitetura nova",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^13.4.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
